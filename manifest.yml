@@ -1,0 +1,6 @@
+---
+applications:
+  - name: developerquiz
+    random-route: true
+    command: node server.js
+    memory: 256M
